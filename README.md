@@ -3,4 +3,4 @@ A repository containing small scale projects using Dockerized solutions with Big
 
 The following projects all pertain to the Big Data course taught by Sir Tariq Mehmood, a lecturer at IBA Karachi.
 
-The compose file rlates to the hadoop project implementation.
+The compose file relates to the hadoop project implementation.
